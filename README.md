@@ -31,6 +31,13 @@ The objective is to identify the most accurate and statistically reliable model 
 - No seasonality (annual data)
 - Moderate variation over time
 
+### Yearly Education Spending Trend
+<p align="center">
+  <img src="images/time_series_education_spending.png" alt="Line graph showing yearly education spending trend" width="600"/>
+</p>
+
+**Key Insight:**  
+Education spending exhibits a generally stable trend over time, with moderate fluctuations across the years. While short-term variations are observed, there is no strong evidence of extreme volatility. The pattern suggests that education expenditure remains relatively consistent, with slight increases in certain periods before stabilizing in the long run.
 The series exhibits long-run structural movement with temporary shocks but no persistent cyclical pattern.
 
 ---
