@@ -1,6 +1,6 @@
 # 📊 Malaysia GDP Education Spending Forecasting
 
-## 📌 Project Overvie w
+## 📌 Project Overview
 
 This project applies **univariate time series modelling** to analyse and forecast Malaysia’s education expenditure (% of GDP) using annual data from **1992–2023**.
 
