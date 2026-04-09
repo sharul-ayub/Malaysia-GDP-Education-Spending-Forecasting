@@ -108,6 +108,10 @@ ARMA(1,2) demonstrated stronger predictive performance while maintaining statist
 
 ## 📈 12-Year Forecast (2024–2035)
 
+<p align="center">
+  <img src="images/model_forecasts.png" alt="ARMA(1,2) model forecasts" width="600"/>
+</p>
+
 The selected ARMA(1,2) model forecasts:
 
 - Short-term increase (2024–2026)
